@@ -1,0 +1,19 @@
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Conda
+.conda/
+
+# OS
+.DS_Store
+Thumbs.db
